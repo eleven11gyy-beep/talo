@@ -1,0 +1,8 @@
+{
+  "name": "tarot-learning-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes live-server --host=127.0.0.1 --port=5500 --entry-file=index.html --no-browser ."
+  }
+}
