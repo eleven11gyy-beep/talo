@@ -1,0 +1,6 @@
+TODO
+
+- Review the Tarot Learning Lab homepage.
+- Check and fix any garbled Chinese text.
+- Confirm image assets load correctly.
+- Add notes for future improvements.
